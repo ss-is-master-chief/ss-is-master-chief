@@ -12,6 +12,6 @@ I am an aspiring Machine Learning Engineer and occasional blogger who loves to b
 - 📫 How to reach me: <sumit.saha.acad@gmail.com>
 - 🧑🏽‍💻 Work Experience:
   - Data Analyst Intern @ SquadStack (Dec 2019 - Present)
-  - Summer Intern @ PwC India (May 2019 - July 2019)
+  - Cybersecurity Intern @ PwC India (May 2019 - July 2019)
 - 🧑🏾‍🎓 Education: B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
 - 😄 Pronouns: he/him/his
