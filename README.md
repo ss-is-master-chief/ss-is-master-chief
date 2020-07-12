@@ -11,8 +11,7 @@ I am an aspiring Machine Learning Engineer and occasional blogger who loves to b
 
 <h2 align="center">Social<h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/linksumitsaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" target="_blank" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/linksumitsaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://medium.com/@_sumitsaha_" target="_blank"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
-  <a href="mailto:sumit.saha.acad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail--_.svg?style=social&logo=gmail" alt="GMail"></a>
-	<a href="https://twitter.com/_sumitsaha_" target="_blank"><img src="https://img.shields.io/twitter/follow/_sumitsaha_?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/_sumitsaha_" target="_blank"><img src="https://img.shields.io/twitter/follow/_sumitsaha_?label=Twitter&style=social" alt="Twitter"></a>
 </p>
