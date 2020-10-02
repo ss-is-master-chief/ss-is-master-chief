@@ -8,7 +8,6 @@
 I am an Data Scientist and occasional blogger who loves to build intelligent systems that solve real world problems. 
 
 - 💬 Ask me about: Data Science, Machine Learning, Artificial Intelligence, Python & Julia
-- 📫 How to reach me: <sumit.saha.acad@gmail.com>
 - 🧑🏽‍💻 Work Experience:
   - Data Scientist - I @ SquadStack (Jul 2020 - Present)
   - Data Science Intern @ SquadStack (Dec 2019 - Jun 2020)
