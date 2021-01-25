@@ -9,8 +9,8 @@ I am a Data Scientist and occasional blogger who loves to build intelligent syst
 
 - 💬 Ask me about: Data Science, Machine Learning, Artificial Intelligence, Python & Julia
 - 🧑🏽‍💻 Work Experience:
-  - Data Scientist - I @ SquadStack (Jul 2020 - Present)
-  - Data Science Intern @ SquadStack (Dec 2019 - Jun 2020)
+  - Data Scientist - I @ <a href="https://www.squadstack.com">SquadStack</a> building a smarter <a href="https://www.auctm.com/product/">Auctm</a> (Jul 2020 - Present)
+  - Data Science Intern @ <a href="https://www.squadstack.com">SquadStack</a> (Dec 2019 - Jun 2020)
   - Cybersecurity Intern @ PwC India (May 2019 - Jul 2019)
 - 🧑🏾‍🎓 Education: B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
 - 😄 Pronouns: he/him/his
