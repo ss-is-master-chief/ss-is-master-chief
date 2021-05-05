@@ -6,7 +6,7 @@
   <a href="https://twitter.com/_sumitsaha_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-I am a Data Scientist and occasional blogger who loves to build intelligent systems that solve real world problems. 
+I am a data scientist and occasional [blogger](https://github.com/ss-is-master-chief/blogs) who loves to build intelligent systems that solve real world problems. 
 
 - 💬 Ask me about: Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Software Development
 - 🧑🏽‍💻 Work Experience:
@@ -19,7 +19,3 @@ I am a Data Scientist and occasional blogger who loves to build intelligent syst
 #### Some things I love working with
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ShellScript"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> 
-
-
-
-
