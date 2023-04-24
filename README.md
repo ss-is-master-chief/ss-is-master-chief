@@ -10,7 +10,8 @@ I am a data scientist and occasional [blogger](https://github.com/ss-is-master-c
 
 - 💬 Ask me about: Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Software Development
 - 🧑🏽‍💻 Work Experience:
-  - Data Scientist - I @ <a href="https://www.squadstack.com">SquadStack</a> (Jul 2020 - Present)
+  - Data Scientist - II @ <a href="https://www.squadstack.com">SquadStack</a> (Apr 2023 - Present)
+  - Data Scientist - I @ <a href="https://www.squadstack.com">SquadStack</a> (Jul 2020 - Apr 2023)
   - Data Science Intern @ <a href="https://www.squadstack.com">SquadStack</a> (Dec 2019 - Jun 2020)
   - Cybersecurity Intern @ PwC India (May 2019 - Jul 2019)
 - 🧑🏾‍🎓 Education: B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
