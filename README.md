@@ -14,7 +14,9 @@ I am a data scientist and occasional [blogger](https://github.com/ss-is-master-c
   - Data Scientist - I @ <a href="https://www.squadstack.com">SquadStack</a> (Jul 2020 - Apr 2023)
   - Data Science Intern @ <a href="https://www.squadstack.com">SquadStack</a> (Dec 2019 - Jun 2020)
   - Cybersecurity Intern @ PwC India (May 2019 - Jul 2019)
-- 🧑🏾‍🎓 Education: B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
+- 🧑🏾‍🎓 Education:
+  - M.Tech Artificial Intelligence & Machine Learning @ BITS, Pilani (2024 - 2026)
+  - B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
 - 😄 Pronouns: he/him/his
 
 #### Some of the tools and tech I love working with ❤️
