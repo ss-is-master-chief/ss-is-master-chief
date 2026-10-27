@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/linksumitsaha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@_sumitsaha_" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://twitter.com/_sumitsaha_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/sumitsaha_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 I am a data scientist and occasional [blogger](https://github.com/ss-is-master-chief/blogs) who loves to build intelligent systems that solve real world problems. 
