@@ -17,7 +17,6 @@ I am a data scientist and occasional [blogger](https://github.com/ss-is-master-c
 - 🧑🏾‍🎓 Education:
   - M.Tech Artificial Intelligence & Machine Learning @ BITS, Pilani (2024 - 2026)
   - B.Tech Computer Science and Engineering @ Vellore Institute of Technology, Chennai (2016 - 2020)
-- 😄 Pronouns: he/him/his
 
 #### Some of the tools and tech I love working with ❤️
 
